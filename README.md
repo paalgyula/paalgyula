@@ -27,5 +27,5 @@ Beware! I am addicted to programming! I am a React/go ♥-er, and officially GOp
 **Q**: Are you really a hacker?
 
 **A**: Ahh... I hate this question... What's a **hacker** for you? 
-- A person who is breaking into your facebook account? **No, I'm definately not a hacker**
+- A person who is breaking into your facebook account? **No, I'm definitely not a hacker**
 - A person who has a knowledgebase to ***identify*** vulnerabilities in various systems? **Yes, in this case I am**
